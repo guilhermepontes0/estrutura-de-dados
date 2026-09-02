@@ -36,3 +36,4 @@ Depois disso podemos saber:
 4. Como remover?
 
 A partir das notas acima, escreva um programa, para  mostrar todas as notas em Python
+
