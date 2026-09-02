@@ -1,0 +1,38 @@
+Introdução a estrutura de dados lineares
+
+
+Imagine que você está desenvolvendo o sistema de uma universidade e precisa armazenar as notas de 5 alunos. Como você faria?
+
+Nota1 = 8
+Nota2 = 9
+Nota3 = 10
+Nota4 = 3
+Nota5 = 2
+
+#Dado estruturado é um dado guardado!
+
+nota1 = 8.5
+nota2 = 7.0
+nota3 = 9.0 
+nota4 = 6.5 
+nota5 = 8.0
+
+notas = [8.5, 7.0, 9.0, 6.5, 8.0]
+
+DADOS + ORGANIZAÇÃO = ESTRUTURA
+
+Uma estrutura de dados é uma forma de organizar e representar dados de maneira que determinadas operações possam ser realizadas sobre eles.
+
+O que foi feito com o caso das notas?
+
+1- Identificação dos dados
+2- Organização dos dados
+
+Depois disso podemos saber:
+
+1. Como acessar?
+2. Como buscar?
+3. Como inserir?
+4. Como remover?
+
+A partir das notas acima, escreva um programa, para  mostrar todas as notas em Python
